@@ -9,7 +9,4 @@ Here are the Python projects I have completed so far:
 * **[Hello World](my-first-repo/hello_world)**, a basic Python program that prints text
 
 I will add additional projects to this repo as I complete them.
-* First item
-* Second item
-* Third item
-**This text is now bold.**
+
